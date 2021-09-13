@@ -19,7 +19,7 @@ email: pellouin@iap.fr
 description: >
   High-Energy Journal-Club organized by the Institut d'Astrophysique de Paris (IAP)
 
-url: "https://cpellouin.github.io/hejc" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cpellouin.github.io/HEJC" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
