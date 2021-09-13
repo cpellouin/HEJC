@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Multi-Messenger Astronomy Journal Club
-author: Raphaël Duque
-email: duque@iap.fr
+title: IAP High-Energy Journal Club
+author: Clément Pellouin
+email: pellouin@iap.fr
 description: >
-  Journal club for MMA at APC and IAP
+  High-Energy Journal-Club organized by the Institut d'Astrophysique de Paris (IAP)
 
-url: "https://bandang0.github.io/mmajconline" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cpellouin.github.io/hejc" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
