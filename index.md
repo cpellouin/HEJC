@@ -72,6 +72,10 @@ Some of the speakers of our sessions include:
 
 ## Past sessions
 
+#### **September 21, 2021, 15h (Salle du Conseil & Online)**
+
+* Paper: [Zhu et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210615781Z/abstract), presented by Clément Pellouin. See [his slides](docs/210921-pellouin.pdf).
+
 #### **July 8, 2021, 13h30 (online)**
 
 * Presentation by Srija Chakraborty (Scuole Normale Superiore), entitled _Probing supermassive black holes with LISA (and the possibility of EM counterpart observations)_.
